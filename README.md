@@ -1,6 +1,8 @@
 # TrackMania-XASECO-Plugins
-Old plugins for Track Mania XASECO system
-2013y
+Plugins for XASECO v1.16 TMF/TMN
+2011y
+
+
 
 
 # iJuke plugin for xaseco
